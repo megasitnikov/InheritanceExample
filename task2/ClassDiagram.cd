@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComputerGame" Collapsed="true">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACQAAAAAAAAAAEQAAAAAAAAIAAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="character" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAARAAAEACAAAAJAAAAAEAAAAAAYABghACAACU=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="items" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAAAAAAAAAAAgAAAAAACAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spell_of_darkness" Collapsed="true">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAEAAAAAAABAAAAAAAY=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gnome" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAACAAAABAAIAAAABAAAAAAAAAACAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Warlock" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAACAAAAACAAFABAAAAAAAAAAAAAAAAAACAAAQ=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jedi" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAACAAAABAAAAAAQAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>task2.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
